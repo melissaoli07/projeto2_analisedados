@@ -42,15 +42,15 @@ Fiz uso constante dos links e vídeos recomendados para entender melhor o BigQue
 
 Google BigQuery (SQL, views)
 
-Links:
-
-Apresentação: https://docs.google.com/presentation/d/1cXSSNnHsqgw0hvKkJDEieaDjxwP_EtjzmLHqPtyEATI/edit?usp=sharing
-
-Vídeo Loom: https://www.loom.com/share/e67467b31b854d5abe095592826645e2?sid=99180ea1-1811-43e7-a5b0-558c7852b212
-
 Power BI (dashboard)
 
 Apresentações Google (para apresentação do projeto)
 
 Loom (gravação da apresentação em vídeo)
+
+Links:
+
+Apresentação: https://docs.google.com/presentation/d/1cXSSNnHsqgw0hvKkJDEieaDjxwP_EtjzmLHqPtyEATI/edit?usp=sharing
+
+Vídeo Loom: https://www.loom.com/share/e67467b31b854d5abe095592826645e2?sid=99180ea1-1811-43e7-a5b0-558c7852b212
 
